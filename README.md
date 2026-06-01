@@ -259,17 +259,27 @@ Cross-domain expertise delivering **tenant-isolated SaaS**, **B2B commerce**, **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seenu1852&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+<!-- Profile stats: avatar, followers, repos, stars, forks, contributions, issues -->
+<a href="https://github.com/seenu1852">
+  <img src="https://gh-readme-profile.vercel.app/api?username=seenu1852&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&username_color=FFFFFF&border_color=30363d&show=issues_closed" alt="GitHub Profile Stats" width="100%"/>
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=seenu1852&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363d&ring=7c3aed&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&currStreakNum=38bdf8&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="180"/>
+<br/>
+
+<!-- Streak stats: total contributions, current streak, longest streak -->
+<a href="https://github.com/seenu1852">
+  <img src="https://streak-stats.demolab.com/?user=seenu1852&theme=dark&hide_border=true&background=000000&stroke=30363d&ring=FB8500&fire=FB8500&currStreakLabel=FB8500&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" width="100%"/>
+</a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seenu1852&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seenu1852&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=seenu1852&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=seenu1852&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" height="165"/>
 
 </div>
 
@@ -277,7 +287,7 @@ Cross-domain expertise delivering **tenant-isolated SaaS**, **B2B commerce**, **
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seenu1852&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=7c3aed&point=22c55e&area=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seenu1852&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FB8500&point=FB8500&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
