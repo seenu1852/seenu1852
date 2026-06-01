@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:7c3aed,100:0d1117&height=220&section=header&text=Sreenivasa%20Reddy&fontSize=48&fontColor=ffffff&animation=twinkling" alt="Sreenivasa Reddy" width="100%"/>
+<h1 align="center">Hi, I am G. Sreenivasa Reddy</h1>
 
 <h3 align="center">
   <em>Building Healthcare, AI, SaaS, Commerce & Web3 Products at Scale</em>
@@ -277,9 +276,11 @@ Cross-domain expertise delivering **tenant-isolated SaaS**, **B2B commerce**, **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seenu1852&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="165"/>
+### 💻 Top Languages
 
-<img src="https://github-profile-trophy.vercel.app/?username=seenu1852&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" height="165"/>
+<a href="https://github.com/seenu1852">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seenu1852&theme=github_dark" alt="Top Languages" width="100%"/>
+</a>
 
 </div>
 
@@ -376,8 +377,6 @@ Cross-domain expertise delivering **tenant-isolated SaaS**, **B2B commerce**, **
 </picture>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Footer" width="100%"/>
 
 **⭐ If you find my work interesting, consider starring a repo or connecting on LinkedIn!**
 
