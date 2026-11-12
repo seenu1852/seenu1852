@@ -254,46 +254,6 @@ Cross-domain expertise delivering **tenant-isolated SaaS**, **B2B commerce**, **
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- Profile stats: avatar, followers, repos, stars, forks, contributions, issues -->
-<a href="https://github.com/seenu1852">
-  <img src="https://gh-readme-profile.vercel.app/api?username=seenu1852&theme=dark&hide_border=true&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&username_color=FFFFFF&border_color=30363d&show=issues_closed" alt="GitHub Profile Stats" width="100%"/>
-</a>
-
-<br/>
-
-<!-- Streak stats: total contributions, current streak, longest streak -->
-<a href="https://github.com/seenu1852">
-  <img src="https://streak-stats.demolab.com/?user=seenu1852&theme=dark&hide_border=true&background=000000&stroke=30363d&ring=FB8500&fire=FB8500&currStreakLabel=FB8500&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="GitHub Streak Stats" width="100%"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💻 Top Languages
-
-<a href="https://github.com/seenu1852">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seenu1852&theme=github_dark" alt="Top Languages" width="100%"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seenu1852&theme=github-compact&hide_border=true&bg_color=000000&color=FFFFFF&line=FB8500&point=FB8500&area=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Achievements & Expertise
 
 <div align="center">
